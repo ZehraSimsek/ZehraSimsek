@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>                ### Hi there 👋
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning React Native.
@@ -7,6 +9,4 @@
 - 🗃️ I have experience with databases such as MySQL and MSSQL.
 - 🐍 I know Python, C, C++, and MATLAB. I'm constantly working on improving my skills in Python and MATLAB.
 
-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
